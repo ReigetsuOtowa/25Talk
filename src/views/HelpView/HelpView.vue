@@ -2,7 +2,7 @@
     <v-md-preview :text="text"></v-md-preview>
 </template>
 
-<script>
+<script lang="ts">
 export default {
     data() {
         return {
