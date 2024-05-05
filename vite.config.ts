@@ -22,7 +22,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/momotalk/',
+  base: '/25talk/',
   build: {
     outDir: 'docs'
   },

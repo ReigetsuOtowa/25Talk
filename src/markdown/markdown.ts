@@ -1,3 +1,5 @@
+// v-md-editor https://code-farmer-i.github.io/vue-markdown-editor/zh/
+
 import VMdPreview from '@kangc/v-md-editor/lib/preview'
 import '@kangc/v-md-editor/lib/style/preview.css'
 import vuepressTheme from '@kangc/v-md-editor/lib/theme/vuepress.js'
